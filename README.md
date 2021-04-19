@@ -34,7 +34,6 @@ See
 
 * [DNS-O-Matic API](https://www.dnsomatic.com/wiki/api)
 
-...
 Minor Update
 ----------
 
