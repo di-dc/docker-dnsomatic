@@ -1,0 +1,7 @@
+version: '3'
+services:
+  dnsomatic:
+    build: ./
+    container_name: dnsomatic
+    restart: unless-stopped
+    env_file: .env
