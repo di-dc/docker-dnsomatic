@@ -33,3 +33,13 @@ See
 ---
 
 * [DNS-O-Matic API](https://www.dnsomatic.com/wiki/api)
+
+...
+Minor Update
+----------
+
+To run: copy _.env.sample_ to _.env_ and update the values. Then:
+_docker-compose up -d --build_
+
+To see logs/status:
+_docker logs dnsomatic_
